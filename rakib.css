@@ -1,0 +1,28 @@
+h1{
+    color: lime;
+    text-align: center;
+    font-family: sans-serif;
+}
+p{
+   text-align: center;
+   background-color: hotpink;
+   color: white;
+   font-weight: bolder;
+   font-family: sans-serif;
+   padding: 20px;
+}
+.long{
+    background-color: white;
+    color: black;
+}
+
+ input[type=button] {
+        width: 10%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        position: relative;
+}
+.btn{
+    text-align: center;
+}
